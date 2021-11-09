@@ -1,0 +1,13 @@
+.display-4{
+
+    text-align: center;
+    background-color: chocolate;
+    margin-top: 30px;
+}
+
+.jumbotron{
+    background-color: brown;
+    height: 300px;
+    text-align: center;
+}
+    
